@@ -5,6 +5,7 @@
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <PackageProjectUrl>https://github.com/c-sharpie</PackageProjectUrl>
     <RepositoryUrl>https://github.com/c-sharpie/integral-library</RepositoryUrl>	
+	<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Copyright>CSharpie LLC</Copyright>
     <NeutralLanguage>en</NeutralLanguage>
     <RepositoryType>git</RepositoryType>
