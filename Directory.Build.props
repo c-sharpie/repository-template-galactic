@@ -3,7 +3,7 @@
     <RootNamespace>Integral</RootNamespace>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
-    <RepositoryUrl>https://github.com/javascribble/integral-library</RepositoryUrl>
+    <RepositoryUrl>https://github.com/javascribble/template-integral</RepositoryUrl>
 	<PackageProjectUrl>https://github.com/javascribble</PackageProjectUrl>
 	<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
@@ -12,7 +12,7 @@
     <RepositoryType>git</RepositoryType>
     <Copyright>Javascribble LLC</Copyright>
 	<Authors>Javascribble LLC</Authors>
-    <LangVersion>9.0</LangVersion>
+    <LangVersion>latest</LangVersion>
 	<Nullable>enable</Nullable>
     <Version>0.0.0</Version>
   </PropertyGroup>
